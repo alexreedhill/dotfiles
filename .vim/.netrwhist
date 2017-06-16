@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/alexhill/code/motivate/mtv-event-packager'
+let g:netrw_dirhist_2='/Users/alexhill/code/motivate/chainring'
+let g:netrw_dirhist_3='/Users/alexhill/code/motivate/citibike-lambda'
+let g:netrw_dirhist_4='/Users/alexhill/code/motivate/citibike-lambda/bike-fleet-lambda'
+let g:netrw_dirhist_5='/Users/alexhill/code/motivate/citibike-lambda/bike-fleet-lambda/dist'
+let g:netrw_dirhist_6='/Users/alexhill/code/motivate/citibike-lambda/bike-fleet-lambda'

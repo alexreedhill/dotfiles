@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+  name = Alexander Hill
+  email = alexhill@motivateco.com
+[core]
+  editor = /usr/bin/vim
+[alias]
+  cane = commit --amend --no-edit
